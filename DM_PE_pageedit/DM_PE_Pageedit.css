@@ -1,0 +1,14 @@
+.sprite {
+	width: 16px;
+	height: 16px;
+	background-image: url(../sprites.png);
+	background-repeat: no-repeat;
+}
+
+.icon{
+	width: 16px;
+	height: 16px;
+}
+.dropdownIcon{
+	background-position: left -586px;
+}
